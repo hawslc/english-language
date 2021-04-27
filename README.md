@@ -10,3 +10,4 @@ Name maker: It uses patterns in the english language to form words in a smarter 
 Random word: picks a random word from the selected dictionary.
 <br>
 Word searcher: searches for words that start with a specific character sequence and an (optional) specified length.
+<br>
